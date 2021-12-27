@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# File: maintain.sh
+# File: aptMaintain.sh
 # Update and upgrade the package files
 
 updateflag=$1
